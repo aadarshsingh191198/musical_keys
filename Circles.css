@@ -1,0 +1,21 @@
+body{
+	width:100vw;
+	height:100vh;
+	margin:0px;
+}
+
+canvas{
+	width:100%  ;
+	height:calc(100vh - 90px);
+	background-color: black;
+}
+
+h1{
+	color:white;
+	font-family: comic sans ms;
+	background-color: black;
+	text-align: center;
+	font-size:4em;
+	margin: 0;
+
+}
